@@ -1,6 +1,6 @@
 FROM ubuntu:22.04
 
-LABEL maintainer="a-mymt"
+LABEL maintainer="miyamoto2024"
 
 ARG GITHUB_USER_NAME
 ARG GITHUB_USER_EMAIL
